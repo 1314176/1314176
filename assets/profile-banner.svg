@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mr.Wu — DevOps and SRE portfolio</title>
+  <desc id="desc">Dark navy engineering banner with blue and teal infrastructure lines, server nodes, and portfolio title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.58" stop-color="#0b1525"/>
+      <stop offset="1" stop-color="#06101a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#142b43" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#091827" stop-opacity=".92"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2563eb" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#2b4964" stroke-opacity=".27" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#38bdf8" fill-opacity=".32"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <ellipse cx="900" cy="175" rx="380" ry="260" fill="url(#glow)"/>
+  <path d="M0 288 C170 245 210 330 370 286 S600 245 760 290" fill="none" stroke="#0f766e" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M0 306 C180 260 240 345 405 300 S610 268 770 312" fill="none" stroke="#2563eb" stroke-opacity=".34" stroke-width="1.5"/>
+  <path d="M58 0V360 M72 0V360" stroke="#1d4ed8" stroke-opacity=".16"/>
+  <rect x="68" y="70" width="4" height="212" rx="2" fill="url(#accent)"/>
+  <text x="96" y="83" fill="#5eead4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">ENGINEERING PORTFOLIO / 2026</text>
+  <text x="92" y="157" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="1">MR.WU</text>
+  <text x="96" y="202" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="1.3">DEVOPS / SRE</text>
+  <rect x="96" y="220" width="294" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="96" y="251" fill="#b6c7dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.2">AUTOMATE  ·  DELIVER  ·  OBSERVE</text>
+  <text x="96" y="278" fill="#7f9ab8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.4">LINUX / CI-CD / CLOUD NATIVE / RELIABILITY</text>
+  <g stroke="#2d8be8" stroke-opacity=".7" stroke-width="1.5" fill="none">
+    <path d="M680 180H758V105H820"/>
+    <path d="M758 180V246H850"/>
+    <path d="M910 105H970V150H1022"/>
+    <path d="M950 246H1005V212H1095"/>
+    <path d="M820 105V64H900"/>
+    <path d="M850 246V300H925"/>
+  </g>
+  <g stroke="#2dd4bf" stroke-opacity=".85" stroke-width="2" fill="none">
+    <path d="M720 120H760V82H820"/>
+    <path d="M880 246H930V278H1005"/>
+    <path d="M1010 150H1060V118H1110"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="758" cy="180" r="4"/><circle cx="820" cy="105" r="4"/><circle cx="850" cy="246" r="4"/>
+    <circle cx="970" cy="150" r="4"/><circle cx="1005" cy="212" r="4"/><circle cx="925" cy="300" r="4"/>
+  </g>
+  <g fill="#2dd4bf">
+    <circle cx="820" cy="82" r="3.5"/><circle cx="1005" cy="278" r="3.5"/><circle cx="1110" cy="118" r="3.5"/>
+  </g>
+  <g transform="translate(805 112)">
+    <rect x="0" y="0" width="94" height="70" rx="8" fill="url(#panel)" stroke="#2874b8" stroke-opacity=".9"/>
+    <rect x="12" y="12" width="70" height="13" rx="3" fill="#183c5b" stroke="#2d8be8" stroke-opacity=".8"/>
+    <rect x="12" y="32" width="70" height="13" rx="3" fill="#183c5b" stroke="#2d8be8" stroke-opacity=".8"/>
+    <rect x="12" y="52" width="70" height="6" rx="2" fill="#183c5b"/>
+    <circle cx="74" cy="18.5" r="2" fill="#2dd4bf"/><circle cx="74" cy="38.5" r="2" fill="#2dd4bf"/>
+  </g>
+  <g transform="translate(935 156)">
+    <rect x="0" y="0" width="106" height="78" rx="8" fill="url(#panel)" stroke="#2874b8" stroke-opacity=".9"/>
+    <rect x="12" y="12" width="82" height="14" rx="3" fill="#183c5b" stroke="#2d8be8" stroke-opacity=".8"/>
+    <rect x="12" y="33" width="82" height="14" rx="3" fill="#183c5b" stroke="#2d8be8" stroke-opacity=".8"/>
+    <rect x="12" y="54" width="82" height="8" rx="3" fill="#183c5b"/>
+    <circle cx="84" cy="19" r="2" fill="#2dd4bf"/><circle cx="84" cy="40" r="2" fill="#2dd4bf"/>
+  </g>
+  <g transform="translate(1036 72)">
+    <rect x="0" y="0" width="100" height="70" rx="8" fill="url(#panel)" stroke="#2dd4bf" stroke-opacity=".85"/>
+    <path d="M15 47L30 35L43 40L60 20L82 28" fill="none" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 53H84" stroke="#3c617d" stroke-width="1"/>
+    <circle cx="60" cy="20" r="3" fill="#5eead4"/>
+  </g>
+  <g transform="translate(865 255)">
+    <rect x="0" y="0" width="68" height="50" rx="7" fill="url(#panel)" stroke="#2d8be8" stroke-opacity=".9"/>
+    <path d="M12 14H56M12 23H48M12 32H39" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" stroke-opacity=".8"/>
+  </g>
+  <path d="M705 36H770" stroke="#3b82f6" stroke-width="2" stroke-opacity=".8"/>
+  <path d="M715 42H750" stroke="#2dd4bf" stroke-width="2" stroke-opacity=".7"/>
+  <g fill="#6ea8d7" fill-opacity=".6">
+    <circle cx="688" cy="45" r="2"/><circle cx="699" cy="45" r="2"/><circle cx="710" cy="45" r="2"/>
+    <circle cx="1148" cy="292" r="2"/><circle cx="1159" cy="292" r="2"/><circle cx="1170" cy="292" r="2"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="10" fill="none" stroke="#42617c" stroke-opacity=".38"/>
+</svg>
